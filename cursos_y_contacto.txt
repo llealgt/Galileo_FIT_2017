@@ -1,0 +1,18 @@
+git clone https://github.com/llealgt/Galileo_FIT_2017.git
+
+1) mate, estadistica de la U
+2) data science specialization coursera(por lo menos los primeros 4 cursos)
+3) udacity: artificial intelligence de Peter Norvig
+  3.1) libro de Norvig y Russel. artificial intelligence a modern approach
+4) machine learning a case study approach: coursera, universidad de Washington
+5) machine learning by Andrew Ng , Stanford y Coursera
+6) deep learning: 
+	6.1 http://neuralnetworksanddeeplearning.com/
+        6.2 deep learning udacity(curso gratis)
+7) deep learning specialization: Andrew Ng ,deeplearning.ai coursera
+
+
+mail:wichofer89@gmail.com
+skype: luis.leal236
+github: llealgt
+FB: Luis Fernando Leal
